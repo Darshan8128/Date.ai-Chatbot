@@ -1,2 +1,2 @@
 for i in range(10):
-    print("Tejas is Chutiya")
+    print("Date Ai has Arrived !!!")
